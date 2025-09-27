@@ -1,7 +1,7 @@
 # 1. Name:
 #      Gabriel Beccari
 # 2. Assignment Name:
-#      Lab 02: Authentication
+#      Lab 02: Authentication Program
 # 3. Assignment Description:
 #      Reads usernames and passwords from Lab02.json and authsenticate/validates a user by
 #      checking that the username and password match at the same list index.
