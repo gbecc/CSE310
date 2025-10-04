@@ -5,6 +5,9 @@
 Simple TCP demo: the **client asks for a file by name**, the **server reads a local file** and sends it back.
 I’m using this to get hands-on with basic client/server communication for my homelab. I normally use tools that don't require programming but also wanted to learn things a bit more in-depth
 
+## My Video Demonstration
+* https://youtu.be/pkdp6iaJL84 
+
 ## How it works
 
 * Protocol is plain text, one line.
