@@ -1,0 +1,3 @@
+Hello world!
+This text came from the server's local file:
+files/message.txt
