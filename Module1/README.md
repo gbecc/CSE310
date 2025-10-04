@@ -83,9 +83,9 @@ python3 client.py notes.txt
 
 # Useful Websites
 
-* Python socket (official): [https://docs.python.org/3/library/socket.html](https://docs.python.org/3/library/socket.html)
-* Python pathlib (official): [https://docs.python.org/3/library/pathlib.html](https://docs.python.org/3/library/pathlib.html)
-* TCP overview (MDN): [https://developer.mozilla.org/en-US/docs/Glossary/TCP](https://developer.mozilla.org/en-US/docs/Glossary/TCP)
+* Python socket: https://docs.python.org/3/library/socket.html
+* Python pathlib: https://docs.python.org/3/library/pathlib.html
+* TCP overview: https://developer.mozilla.org/en-US/docs/Glossary/TCP
 
 ---
 
