@@ -15,7 +15,7 @@ from pathlib import Path
 import sqlite3
 
 # Config
-database_file = Path("inventory.db")
+database_file = Path("inventory.db") # Creates local database. Your database will be different than mine.
 
 
 # DB helpers
