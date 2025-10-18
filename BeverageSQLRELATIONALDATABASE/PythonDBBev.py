@@ -1,15 +1,3 @@
-"""
-Welcome to the Beverage Inventory 1.0
----------------------------------------
-This is my one file app to manage simple stock levels. Some details:
-- Creates a local SQLite database file (inventory.db)
-- CRUD for products
-- Increase / decrease stock (with safety checks)
-- Tiny (but mighty) interactive menu
-
-Run:  pythonDBBev.py
-"""
-
 from contextlib import contextmanager
 from pathlib import Path
 import sqlite3
@@ -295,7 +283,7 @@ def main() -> None:
             break
 
         else:
-            print("Unknown option. Please choose 0-7.")
+            print("Unknown option. Please choose 0-8.")
 
 
 if __name__ == "__main__":
