@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\bin\Debug\net9.0\InventoryApp.exe
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\bin\Debug\net9.0\InventoryApp.deps.json
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\bin\Debug\net9.0\InventoryApp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\bin\Debug\net9.0\InventoryApp.dll
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\bin\Debug\net9.0\InventoryApp.pdb
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.sourcelink.json
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.dll
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\refint\InventoryApp.dll
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.pdb
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\InventoryApp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\BYU Code\CSE310\W09C#\inventoryApp\obj\Debug\net9.0\ref\InventoryApp.dll
