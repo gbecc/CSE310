@@ -4,7 +4,7 @@ For this project, I wanted to get more comfortable using JavaScript by building 
 
 My purpose with this software was mainly to strengthen my understanding of JavaScript and how it interacts/behaves with the browser. I also added exception handling as my stretch challenge so I could get used to throwing errors and catching them cleanly.
 
-[Software Demo Video](https://youtu.be/NFFTLOXJt70)
+[Software Demo Video](https://youtu.be/lmwP1z4dz9U)
 
 # Development Environment
 
