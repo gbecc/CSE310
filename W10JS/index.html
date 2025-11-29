@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>JavaScript Demo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>JavaScript Demo</h1>
+
+  <!-- task list section -->
+  <section>
+    <h2>Task list (arrays)</h2>
+    <p>Add a task, mark it done, or delete it.</p>
+
+    <input id="task-input" type="text" placeholder="type a task here" />
+    <button id="add-task-btn">add task</button>
+
+    <ul id="task-list"></ul>
+
+    <p id="task-stats" class="small"></p>
+  </section>
+
+  <!-- recursion section -->
+  <section>
+    <h2>Countdown (recursion + exceptions)</h2>
+    <p>Give me a number and I’ll count down to liftoff.</p>
+
+    <input id="count-input" type="number" placeholder="e.g. 5" />
+    <button id="count-btn">start countdown</button>
+
+    <p id="count-result"></p>
+    <p id="count-error" class="error"></p>
+  </section>
+
+  <!-- third-party library -->
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+
+  <!-- main code -->
+  <script src="main.js"></script>
+</body>
+</html>
